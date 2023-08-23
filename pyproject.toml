@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "faker-order-generator"
+version = "0.1.0"
+description = ""
+authors = ["Rodrigo Carvalho <rodrigofmcarvalho@gmail.com>"]
+readme = "README.md"
+packages = [{include = "faker_order_generator"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+faker = "^19.3.0"
+numpy = "^1.25.2"
+
+[tool.poetry.group.dev.dependencies]
+blue = "^0.9.1"
+isort = "^5.12.0"
+pytest = "^7.4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
