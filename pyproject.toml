@@ -9,7 +9,6 @@ packages = [{include = "faker_order_generator"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 faker = "^19.3.0"
-numpy = "^1.25.2"
 
 [tool.poetry.group.dev.dependencies]
 blue = "^0.9.1"
