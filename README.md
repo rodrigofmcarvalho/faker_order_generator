@@ -2,6 +2,8 @@
 
 The `Faker Order Generator` module is designed to generate fake order data for e-commerce platforms. It simulates order details in a realistic manner, focusing on generating data specifically related to Black Friday sales.
 
+![faker_order_generator](https://github.com/rodrigofmcarvalho/faker_order_generator/assets/96849660/5ec9b7b6-4ede-4c21-a992-d224edb41925)
+
 ## Table of Contents
 
 - [Features](#features)
